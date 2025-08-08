@@ -8,6 +8,7 @@ https://www.tampermonkey.net/
 - Create a new script in tampermonkey 
 - Then copy & paste the code that is in script.js and save
 
-<img width="1302" height="895" alt="image" src="https://github.com/user-attachments/assets/7f099275-b393-4553-aee4-c2f20e1d9fe9" />
+<img width="1300" height="896" alt="image" src="https://github.com/user-attachments/assets/aebcaf07-94e0-4206-b304-0a133df18d80" />
+
 
 
